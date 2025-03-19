@@ -1,9 +1,5 @@
-streamlit
-openai
-SpeechRecognition
-sounddevice
-scipy
+speechrecognition
+pyttsx3
 requests
-wave
-pyttssx3
-time
+pyaudio
+numpy
