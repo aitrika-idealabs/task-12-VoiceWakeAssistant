@@ -3,3 +3,4 @@ pyttsx3
 requests
 numpy
 sounddevice
+eSpeak
