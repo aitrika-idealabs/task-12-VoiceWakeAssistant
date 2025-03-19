@@ -1,0 +1,9 @@
+streamlit
+openai
+SpeechRecognition
+sounddevice
+scipy
+requests
+wave
+pyttssx3
+time
