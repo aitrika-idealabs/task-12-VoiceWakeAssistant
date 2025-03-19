@@ -1,6 +1,5 @@
 speechrecognition
 pyttsx3
 requests
-pyaudio
 numpy
 sounddevice
